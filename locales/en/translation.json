@@ -104,6 +104,8 @@
   "SHIP_READY-disclaimer": "Almost there! Your order is currently being prepared for shipping.\nThis process can take up to 1 day. The status will be\nautomatically updated once the next step begins.",
   "SHIPPED-disclaimer": "Finally! Your order has been shipped, and you can expect\ncontact from the courier soon. This process can take up to\n1 day. The status will be automatically updated once the next step begins.",
   "DONE-disclaimer": "Finally in your hands! We made every effort to deliver\nyour order as quickly as possible. We hope you are satisfied\nand look forward to hearing your feedback!",
+  "sort-by-expected-date": "Expected completion date",
+  "sort-by-creation-date": "Creation date",
   "orderDetails": {
     "title": "Order Details",
     "name": "Name:",

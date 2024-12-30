@@ -77,6 +77,8 @@
   "shipped-via": "Shipped via",
   "status": "Status",
   "status-change-history": "Status change history",
+  "sort-by": "Sort by",
+  "sort-order": "Ordered",
   "timestamp": "Timestamp",
   "tracking-id": "Tracking ID: {{TRACKING_ID}}",
   "transaction-date": "Transaction date",

@@ -117,7 +117,8 @@
     "plannedEndingDate": "Očekivani završetak:",
     "postalCode": "Kod za praćenje",
     "postalService": "Dostavna služba",
-    "postalLink": "Prati dostavnu službu"
+    "postalLink": "Prati dostavnu službu",
+    "dateWhenMovedToDone": "Datum završetka"
   },
   "validation": {
     "invalid": {

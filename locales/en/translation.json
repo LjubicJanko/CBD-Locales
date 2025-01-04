@@ -117,7 +117,8 @@
     "plannedEndingDate": "Expected Completion:",
     "postalCode": "Postal code",
     "postalService": "Postal service",
-    "postalLink": "Track postal service"
+    "postalLink": "Track postal service",
+    "dateWhenMovedToDone": "Done date:"
   },
   "validation": {
     "invalid": {

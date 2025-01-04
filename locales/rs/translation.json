@@ -118,7 +118,7 @@
     "postalCode": "Kod za praćenje",
     "postalService": "Dostavna služba",
     "postalLink": "Prati dostavnu službu",
-    "dateWhenMovedToDone": "Datum završetka"
+    "dateWhenMovedToDone": "Datum završetka:"
   },
   "validation": {
     "invalid": {

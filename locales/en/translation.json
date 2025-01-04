@@ -118,7 +118,7 @@
     "postalCode": "Postal code",
     "postalService": "Postal service",
     "postalLink": "Track postal service",
-    "dateWhenMovedToDone": "Done date:"
+    "dateWhenMovedToDone": "Done date: "
   },
   "validation": {
     "invalid": {

@@ -162,5 +162,9 @@
   "order-deleted": "Successfully deleted",
   "order-created": "Order successfully created",
   "user-created": "User successfully created",
-  "password-changed": "Password successfully changed"
+  "password-changed": "Password successfully changed",
+  "LOW": "Low",
+  "MEDIUM": "Medium",
+  "HIGH": "High",
+  "priority": "Priority"
 }

@@ -162,5 +162,9 @@
   "order-deleted": "Porudžbina je uspešno obrisana",
   "order-created": "Porudžbina je uspešno kreirana",
   "user-created": "Korisnik je uspešno kreiran",
-  "password-changed": "Lozinka je uspešno promenjena"
+  "password-changed": "Lozinka je uspešno promenjena",
+  "LOW": "Nizak",
+  "MEDIUM": "Srednji",
+  "HIGH": "Visok",
+  "priority": "Prioritet"
 }

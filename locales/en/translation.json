@@ -166,5 +166,9 @@
   "LOW": "Low",
   "MEDIUM": "Medium",
   "HIGH": "High",
-  "priority": "Priority"
+  "priority": "Priority",
+  "amountLeftToPay": "Left to pay:",
+  "choose-priority": "Choose priority:",
+  "clear": "Clear",
+  "apply": "Apply"
 }

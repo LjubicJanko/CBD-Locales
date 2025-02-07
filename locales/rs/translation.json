@@ -166,5 +166,9 @@
   "LOW": "Nizak",
   "MEDIUM": "Srednji",
   "HIGH": "Visok",
-  "priority": "Prioritet"
+  "priority": "Prioritet",
+  "amountLeftToPay": "Preostalo za uplatu:",
+  "choose-priority": "Izaberi prioritet:",
+  "clear": "Očisti",
+  "apply": "Primeni"
 }

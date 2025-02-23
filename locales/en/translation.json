@@ -170,5 +170,8 @@
   "amountLeftToPay": "Left to pay:",
   "choose-priority": "Choose priority:",
   "clear": "Clear",
-  "apply": "Apply"
+  "apply": "Apply",
+  "information": "Information",
+  "change-history": "Change history",
+  "files": "Files"
 }

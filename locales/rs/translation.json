@@ -164,6 +164,13 @@
     "disclaimer": "Ovo se odnosi na ekipe koje su već radile opremu kod nas, a potrebno im je nekoliko novih garnitura već napravljene opreme.",
     "descriptionPlaceholder": "Upišite detalje dorade, npr. brojevi, imena, dodatni kompleti..."
   },
+  "contact": {
+    "phone": "Broj telefona",
+    "address": "Adresa",
+    "city": "Grad",
+    "country": "Drzava",
+    "postalCode": "Poštanski broj"
+  },
   "d": "D Express",
   "city": "City Express",
   "aks": "Aks Express",

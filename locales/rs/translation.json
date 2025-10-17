@@ -144,6 +144,15 @@
       "payment-method": "Način plaćanja je obavezno polje."
     }
   },
+  "orderExtension": {
+    "teamName": "Ime ekipe",
+    "title": "Zatraži doradu",
+    "note": "Napomena",
+    "createdSuccess": "Zahtev za doradu dresova je uspešno kreiran.",
+    "description": "Šta je sve potrebno za doradu?",
+    "disclaimer": "Ovo se odnosi na ekipe koje su već radile opremu kod nas, a potrebno im je nekoliko novih garnitura već napravljene opreme.",
+    "descriptionPlaceholder": "Upišite detalje dorade, npr. brojevi, imena, dodatni kompleti..."
+  },
   "d": "D Express",
   "city": "City Express",
   "aks": "Aks Express",

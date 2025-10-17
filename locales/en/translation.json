@@ -164,6 +164,13 @@
     "disclaimer": "This relates to teams that already have our gear, and need a couple of new items of the same type.",
     "descriptionPlaceholder": "Enter extension details, e.g. numbers, names, extra sets..."
   },
+  "contact": {
+    "phone": "Phone number",
+    "address": "Address",
+    "city": "City",
+    "country": "Country",
+    "postalCode": "Postal code"
+  },
   "d": "D express",
   "city": "City express",
   "aks": "Aks express",

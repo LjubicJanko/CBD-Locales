@@ -148,7 +148,7 @@
       "payment-method": "Način plaćanja je obavezno polje.",
       "phone": "Broj telefona je obavezno polje.",
       "address": "Adresa je obavezno polje.",
-      "teamName": "Ime ekipe je obavezno polje.",
+      "orderName": "Ime ekipe je obavezno polje.",
       "orderDescription": "Opis porudžbine je obavezno polje.",
       "fullName": "Ime i prezime je obavezno polje.",
       "city": "Grad je obavezno polje.",

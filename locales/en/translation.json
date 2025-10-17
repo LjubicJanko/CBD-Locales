@@ -148,7 +148,7 @@
       "payment-method": "Payment method is required field.",
       "phone": "Phone number is a required field.",
       "address": "Address is a required field.",
-      "teamName": "Team name is a required field.",
+      "orderName": "Team name is a required field.",
       "orderDescription": "Order description is a required field.",
       "fullName": "Full name is a required field.",
       "city": "City is a required field.",

@@ -202,5 +202,21 @@
   "apply": "Apply",
   "information": "Information",
   "change-history": "Change history",
-  "files": "Files"
+  "files": "Files",
+  "reports": "Reports",
+  "overview": "Overview",
+  "total-orders": "Total Orders",
+  "total-acquisition-cost": "Total Acquisition Cost",
+  "avg-acquisition-cost": "Avg Acquisition Cost",
+  "total-collected": "Total Collected",
+  "total-sale-price": "Total Sale Price",
+  "outstanding": "Outstanding",
+  "profit-margin": "Profit Margin",
+  "status-duration": "Status Duration",
+  "total-orders-analyzed": "Total orders analyzed",
+  "no-completed-orders": "No completed orders in this period",
+  "shipment-info": "Shipment Info",
+  "shipment-info-updated": "Shipment info updated",
+  "shipment-info-update-error": "Failed to update shipment info",
+  "all-orders": "All Orders"
 }

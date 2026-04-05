@@ -218,5 +218,7 @@
   "shipment-info": "Informacije o pošiljci",
   "shipment-info-updated": "Informacije o pošiljci ažurirane",
   "shipment-info-update-error": "Greška pri ažuriranju informacija o pošiljci",
-  "all-orders": "Sve porudžbine"
+  "all-orders": "Sve porudžbine",
+  "regular": "redovnih",
+  "extensions": "naručenih"
 }

@@ -202,5 +202,21 @@
   "apply": "Primeni",
   "information": "Informacije",
   "change-history": "Istorija promena",
-  "files": "Fajlovi"
+  "files": "Fajlovi",
+  "reports": "Izveštaji",
+  "overview": "Pregled",
+  "total-orders": "Ukupno porudžbina",
+  "total-acquisition-cost": "Ukupna nabavna cena",
+  "avg-acquisition-cost": "Prosečna nabavna cena",
+  "total-collected": "Ukupno naplaćeno",
+  "total-sale-price": "Ukupna prodajna cena",
+  "outstanding": "Preostalo",
+  "profit-margin": "Profit",
+  "status-duration": "Trajanje statusa",
+  "total-orders-analyzed": "Ukupno analiziranih porudžbina",
+  "no-completed-orders": "Nema završenih porudžbina u ovom periodu",
+  "shipment-info": "Informacije o pošiljci",
+  "shipment-info-updated": "Informacije o pošiljci ažurirane",
+  "shipment-info-update-error": "Greška pri ažuriranju informacija o pošiljci",
+  "all-orders": "Sve porudžbine"
 }

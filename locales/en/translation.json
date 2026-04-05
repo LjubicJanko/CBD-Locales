@@ -218,5 +218,7 @@
   "shipment-info": "Shipment Info",
   "shipment-info-updated": "Shipment info updated",
   "shipment-info-update-error": "Failed to update shipment info",
-  "all-orders": "All Orders"
+  "all-orders": "All Orders",
+  "regular": "regular",
+  "extensions": "extensions"
 }

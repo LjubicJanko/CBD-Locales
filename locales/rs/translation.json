@@ -241,5 +241,9 @@
   "zipCode": "Poštanski broj",
   "from": "Od",
   "to": "Do",
-  "canceled": "Otkazano"  
+  "canceled": "Otkazano",
+   "reports-description": "Filteri za datumski opseg se primenjuju na sve sekcije ispod. Izaberite period da vidite statistiku porudžbina i trajanje statusa za taj vremenski okvir.",
+  "overview-description": "Broj porudžbina i finansije za izabrani period",
+  "status-duration-description": "Prosečno vreme koje porudžbine provedu u svakom statusu",
+  "reactivated": "Reaktivirano"
 }

@@ -242,7 +242,7 @@
   "from": "From",
   "to": "To",
   "canceled": "Canceled",
-  "reports-description": "Date range filters apply to all sections below. Select a period to see order stats and status durations for that time frame.",
+  "reports-description": "Date range filters apply to all sections below. Select a period to see stats for orders that were finished in that time frame.",
   "overview-description": "Order counts and financials for the selected period",
   "status-duration-description": "Average time orders spend in each status",
   "reactivated": "Reactivated"

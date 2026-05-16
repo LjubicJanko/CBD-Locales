@@ -128,7 +128,9 @@
   "validation": {
     "invalid": {
       "sale-price": "Prodajna cena mora biti pozitivan broj!",
-      "acquisition-cost": "Nabavna cena mora biti pozitivan broj!"
+      "acquisition-cost": "Nabavna cena mora biti pozitivan broj!",
+      "zipCode": "Poštanski broj nije validan",
+      "phone": "Broj telefona nije validan"
     },
     "required": {
       "name": "Naziv je obavezno polje.",
@@ -153,7 +155,9 @@
       "orderDescription": "Opis porudžbine je obavezno polje.",
       "fullName": "Ime i prezime je obavezno polje.",
       "city": "Grad je obavezno polje.",
-      "zipCode": "Poštanski broj je obavezno polje."
+      "zipCode": "Poštanski broj je obavezno polje.",
+      "plannedEndingDate": "Datum očekivanog završetka je obavezno polje.",
+      "slug": "Slug je obavezno polje."
     }
   },
   "orderExtension": {
@@ -163,7 +167,9 @@
     "createdSuccess": "Zahtev za doradu dresova je uspešno kreiran.",
     "description": "Šta je sve potrebno za doradu?",
     "disclaimer": "Odnosi se na ekipe koje su već radile opremu kod nas, a potrebno im je naknadna izrada garniture prethodno napravljene opreme.",
-    "descriptionPlaceholder": "Upiši podatke porudžbine - broj na dresu, ime, veličina, komplet/samo gornji deo/samo šorc..."
+    "descriptionPlaceholder": "Upiši podatke porudžbine - broj na dresu, ime, veličina, komplet/samo gornji deo/samo šorc...",
+    "createError": "Greška pri slanju zahteva za doradu",
+    "tenantNotFound": "Tenant nije pronađen"
   },
   "contact": {
     "phone": "Broj telefona",
@@ -245,5 +251,83 @@
   "reports-description": "Odabrani period se primenjuje na sve sekcije ispod. Statistika se prikazuje za porudžbine završene u izabranom periodu.",
   "overview-description": "Broj porudžbina i iznosi za izabrani period",
   "status-duration-description": "Prosečno vreme koje porudžbine provedu u svakom statusu",
-  "reactivated": "Reaktivirano"
+  "reactivated": "Reaktivirano",
+  "settings": "Podešavanja",
+  "edit": "Izmeni",
+  "save": "Sačuvaj",
+  "archived": "Arhivirano",
+  "extension": "Dorada",
+  "tenant-not-found": "Tenant nije pronađen",
+  "status-change-failed": "Greška pri promeni statusa",
+  "extension-update-error": "Greška pri ažuriranju zahteva za doradu",
+  "extension-updated": "Zahtev za doradu je ažuriran",
+  "edit-extension": "Izmeni zahtev za doradu",
+  "platform": {
+    "title": "Platforma",
+    "logo": "Logo",
+    "logoHint": "Samo PNG, do 2MB",
+    "logoMustBePng": "Logo mora biti PNG fajl",
+    "logoTooLarge": "Logo fajl je prevelik",
+    "logoUpdated": "Logo je ažuriran",
+    "logoUploadError": "Greška pri otpremanju logoa",
+    "logoRemoved": "Logo je uklonjen",
+    "logoRemoveError": "Greška pri uklanjanju logoa",
+    "chooseLogo": "Izaberi logo",
+    "clearLogo": "Ukloni logo",
+    "fetchError": "Greška pri učitavanju tenanta",
+    "slugFormat": "Slug može da sadrži samo mala slova, brojeve i crtice",
+    "slugReserved": "Slug je rezervisan",
+    "createTenant": "Kreiraj tenant",
+    "tenantName": "Naziv tenanta",
+    "tenantSlug": "Slug tenanta",
+    "tenantList": "Tenanti",
+    "tenantCreated": "Tenant je uspešno kreiran",
+    "tenantCreatedLogoFailed": "Tenant je kreiran, ali logo nije otpremljen",
+    "tenantCreateError": "Greška pri kreiranju tenanta",
+    "tenantDeactivated": "Tenant je deaktiviran",
+    "tenantDeleteError": "Greška pri deaktivaciji tenanta",
+    "actions": "Akcije",
+    "deactivate": "Deaktiviraj",
+    "deactivateTitle": "Deaktivacija tenanta",
+    "deactivateConfirm": "Da li si siguran da želiš da deaktiviraš ovog tenanta?"
+  },
+  "share": {
+    "tab": "Deljenje",
+    "title": "Podeli link za doradu",
+    "description": "Podeli ovaj link sa svojim klijentima kako bi mogli da pošalju zahtev za doradu.",
+    "copyUrl": "Kopiraj link",
+    "downloadQR": "Preuzmi QR kod",
+    "copied": "Link je uspešno kopiran",
+    "copyFailed": "Greška pri kopiranju linka",
+    "noTenant": "Tenant za deljenje nije postavljen"
+  },
+  "selectTenant": {
+    "title": "Izaberi tenant",
+    "subtitle": "Izaberi tenant sa kojim želiš da radiš",
+    "managePlatform": "Upravljaj platformom"
+  },
+  "CBD SPORTSWEAR": "CBD SPORTSWEAR",
+  "Korisnicko ime": "Korisničko ime",
+  "Lozinka": "Lozinka",
+  "Poruči dres": "Poruči dres",
+  "ID Praćenje": "ID Praćenje",
+  "Baneri": "Baneri",
+  "Naslov": "Naslov",
+  "Tekst": "Tekst",
+  "Dopuna narudžbine": "Dopuna narudžbine",
+  "Id praćenje": "Id praćenje",
+  "Početna stranica": "Početna stranica",
+  "Ukloni": "Ukloni",
+  "Objavi": "Objavi",
+  "Da li si siguran da želiš da obrišeš baner?": "Da li si siguran da želiš da obrišeš baner?",
+  "Da li si siguran da želiš da ukloniš baner?": "Da li si siguran da želiš da ukloniš baner?",
+  "Dodaj novi baner": "Dodaj novi baner",
+  "Baner uspešno obrisan": "Baner uspešno obrisan",
+  "Baner uspešno objavljen": "Baner uspešno objavljen",
+  "Baner uspešno uklonjen": "Baner uspešno uklonjen",
+  "Baner uspešno kreiran": "Baner uspešno kreiran",
+  "Baner uspešno izmenjen": "Baner uspešno izmenjen",
+  "Kontakt podaci su uspešno izmenjeni": "Kontakt podaci su uspešno izmenjeni",
+  "Kontakt podaci nisu izmenjeni": "Greška pri izmeni kontakt podataka",
+  "Url coppied to clipboard": "Link je kopiran u privremenu memoriju"
 }

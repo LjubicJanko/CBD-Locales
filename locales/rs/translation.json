@@ -42,6 +42,9 @@
         "tenantNotFound": "Kompanija nije pronađena. Proverite link koji ste koristili.",
         "loginPrompt": "Prijavite se da nastavite."
     },
+    "pwa": {
+        "offlineReady": "Aplikacija je spremna za rad bez interneta"
+    },
     "is-legal-entity": "Da li je pravno lice",
     "last-update": "Poslednje ažurirano",
     "update": "Izmeni",
@@ -159,7 +162,7 @@
             "zipCode": "Poštanski broj je obavezno polje.",
             "plannedEndingDate": "Planirani datum završetka je obavezno polje.",
             "orderName": "Ime ekipe je obavezno polje.",
-            "slug": "URL oznaka je obavezno polje."
+            "slug": "Slug je obavezno polje."
         }
     },
     "orderExtension": {
@@ -221,9 +224,9 @@
         "createTenant": "Kreiraj klijenta",
         "tenantList": "Svi klijenti",
         "tenantName": "Naziv klijenta",
-        "tenantSlug": "URL oznaka",
-        "slugFormat": "URL oznaka može sadržati samo mala slova, brojeve i crtice.",
-        "slugReserved": "Ova URL oznaka je rezervisan. Izaberite drugu.",
+        "tenantSlug": "Slug",
+        "slugFormat": "Slug može sadržati samo mala slova, brojeve i crtice.",
+        "slugReserved": "Ovaj slug je rezervisan. Izaberite drugi.",
         "selectTenant": "Izaberi klijenta",
         "selectTenantFirst": "Najpre izaberite klijenta.",
         "createUser": "Kreiraj korisnika",
@@ -262,8 +265,8 @@
         "save": "Sačuvaj izmene",
         "saved": "Klijent je uspešno ažuriran.",
         "saveError": "Ažuriranje klijenta nije uspelo.",
-        "slugWarning": "Promena URL oznake prekida postojeće linkove za praćenje i QR kodove koji koriste staru URL oznaku.",
-        "slugReadOnly": "Samo administratori platforme mogu da menjaju URL oznaku.",
+        "slugWarning": "Promena sluga prekida postojeće linkove za praćenje i QR kodove koji koriste stari slug.",
+        "slugReadOnly": "Samo administratori platforme mogu da menjaju slug.",
         "backToList": "Nazad na klijente",
         "notFound": "Klijent nije pronađen.",
         "socialSection": "Društvena mreža",
@@ -298,7 +301,7 @@
     "premiumFeatures": {
         "tab": "Premium",
         "title": "Premium funkcionalnosti",
-        "hint": "Uključite ili isključite premium module za {{tenant}}. Promene se primenjuju na sve korisnike ovog klijenta."
+        "hint": "Uključite ili isključite premium module za {{tenant}}. Promene se primenjuju na sve korisnike ovog tenanta."
     },
     "feature-orders-label": "Upravljanje porudžbinama",
     "feature-orders-description": "Pregled porudžbina, kreiranje, tok statusa i plaćanja.",
@@ -496,6 +499,11 @@
     "shipment-info": "Informacije o pošiljci",
     "shipment-info-updated": "Informacije o pošiljci ažurirane",
     "shipment-info-update-error": "Greška pri ažuriranju informacija o pošiljci",
+    "payment-save-failed": "Čuvanje uplate nije uspelo. Pokušajte ponovo.",
+    "payment-delete-failed": "Brisanje uplate nije uspelo. Pokušajte ponovo.",
+    "payments-load-failed": "Učitavanje uplata nije uspelo. Pokušajte ponovo.",
+    "execution-status-change-failed": "Promena statusa porudžbine nije uspela. Pokušajte ponovo.",
+    "order-update-failed": "Ažuriranje porudžbine nije uspelo. Pokušajte ponovo.",
     "all-orders": "Sve",
     "regular": "redovnih",
     "extensions": "dorada",
@@ -524,7 +532,7 @@
     "save": "Sačuvaj",
     "archived": "Arhivirano",
     "extension": "Dorada",
-    "tenant-not-found": "Klijent nije pronađen",
+    "tenant-not-found": "Tenant nije pronađen",
     "extension-update-error": "Greška pri ažuriranju zahteva za doradu",
     "extension-updated": "Zahtev za doradu je ažuriran",
     "edit-extension": "Izmeni zahtev za doradu"

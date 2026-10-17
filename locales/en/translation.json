@@ -473,6 +473,12 @@
         "switch-warning": "{{COUNT}} people are currently checked in at this location. Switching the check-in method won't end their open session, but they may need the new method to check out. Continue?"
     },
     "archive": "Archive",
+    "restore": "Restore",
+    "restore-confirm": "Are you sure you want to restore this order to active?",
+    "comment-optional": "Comment (optional)",
+    "restored": "Restored",
+    "execution-status-active": "Active",
+    "status-change-forbidden": "Only a company admin can change the status of an archived or canceled order.",
     "search-orders": "Search orders",
     "sort-by": "Sort by",
     "sort-order": "Ordered",
@@ -577,5 +583,6 @@
     "unpaid-orders-load-failed": "Could not load the unpaid orders.",
     "retry": "Retry",
     "order-link-not-found": "The order from the link was not found.",
-    "order-load-failed": "Could not load the order."
+    "order-load-failed": "Could not load the order.",
+    "show-all-history": "Show all history"
 }

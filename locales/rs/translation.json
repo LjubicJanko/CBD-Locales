@@ -473,6 +473,12 @@
         "switch-warning": "{{COUNT}} ljudi je trenutno prijavljeno na ovoj lokaciji. Promena načina prijave neće prekinuti njihovu otvorenu smenu, ali će im možda biti potreban novi način da prijave odlazak. Nastaviti?"
     },
     "archive": "Arhiviraj",
+    "restore": "Vrati",
+    "restore-confirm": "Da li ste sigurni da želite da vratite ovu porudžbinu u aktivno stanje?",
+    "comment-optional": "Komentar (opcionalno)",
+    "restored": "Vraćeno",
+    "execution-status-active": "Aktivno",
+    "status-change-forbidden": "Samo administrator kompanije može da promeni status arhivirane ili otkazane porudžbine.",
     "search-orders": "Pretraži porudžbine",
     "sort-by": "Sortiraj po",
     "sort-order": "Poređano",
@@ -577,5 +583,6 @@
     "unpaid-orders-load-failed": "Učitavanje neplaćenih porudžbina nije uspelo.",
     "retry": "Pokušaj ponovo",
     "order-link-not-found": "Porudžbina iz linka nije pronađena.",
-    "order-load-failed": "Učitavanje porudžbine nije uspelo."
+    "order-load-failed": "Učitavanje porudžbine nije uspelo.",
+    "show-all-history": "Prikaži svu istoriju"
 }
